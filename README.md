@@ -19,12 +19,12 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [Create your first kotlin app](https://www.jetbrains.com/help/idea/create-your-first-kotlin-app.html#67dd1cb4)
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
+* 
 * Item 2
 * Item 3
