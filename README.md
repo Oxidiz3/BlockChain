@@ -5,7 +5,7 @@ My software uses Kotlin, right now I have the basics of my software done. I can 
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+### [Software walkthrough](https://youtu.be/S3CXwwwWToQ)
 
 # Development Environment
 I used the Intellij editor along with a library
