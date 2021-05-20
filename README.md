@@ -3,8 +3,6 @@ I have been interested in the blockchain for awhile and I wanted to create somet
 
 My software uses Kotlin, right now I have the basics of my software done. I can create blocks. I can mine the blocks to make sure that they are valid. I can also store data inside of the blocks and then pull them back out later using JSON strings. I can save the block chain to a file also using JSON and then load the file back in.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
 ### [Software walkthrough](https://youtu.be/S3CXwwwWToQ)
 
 # Development Environment
